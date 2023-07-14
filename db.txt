@@ -1,0 +1,10 @@
+database mysql name: college
+setting database
+college_management_system/settings.py
+
+login
+bghz@gmail.com
+twistter11
+
+1. Copy lalu pastekan code ini dan pastekan ke terminal ( env\Scripts\activate )
+2. Lalu copy dan pastekan code ini ke terminal ( python manage.py runserver )
